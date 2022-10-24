@@ -1,0 +1,9 @@
+x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
+x,o,o,x,o,o,x,o,o,x,o,o,o,d,w,x
+x,o,o,x,o,o,x,o,o,o,o,o,o,d,d,x
+x,o,o,o,o,o,x,o,o,x,o,o,o,o,o,x
+x,o,o,o,o,o,x,o,o,x,o,o,o,o,o,x
+x,o,o,o,o,o,x,o,o,x,o,o,o,o,o,x
+x,o,o,x,o,o,o,o,o,x,o,o,x,x,x,x
+x,o,o,x,o,o,x,o,o,x,o,o,o,o,k,x
+x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x
